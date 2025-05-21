@@ -1,0 +1,10 @@
+services:
+  syngenta:
+    image: infinity81/syngenta:v1
+    ports:
+      - 5000:5000
+    env_file:
+      - .env 
+
+# docker compose -f docker_compose.yaml up -d
+
