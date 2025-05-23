@@ -1,0 +1,63 @@
+--- Page 1 ---
+Supplier Code of Conduct (Ethical Sourcing)
+Dataco Global
+Purpose and Scope
+This Supplier Code of Conduct outlines the ethical, social, and environmental standards required of
+all suppliers, contractors, and their subcontractors engaged by Dataco Global. The goal is to
+ensure all business relationships are conducted in compliance with internationally recognized best
+practices, fostering transparency and accountability at every stage of our supply chain.
+1. Compliance with Laws and Regulations
+Suppliers must comply with all applicable local, national, and international laws and regulations
+in every jurisdiction where they operate.
+All products and services supplied to Dataco Global must meet relevant legal and regulatory
+standards, including labor, environmental, trade, and anti-corruption laws.
+2. Labor Standards and Human Rights
+Child labor is strictly prohibited. No person under 15 years of age (or higher age as mandated
+by local law) may be employed.
+Forced labor, including prison labor or human trafficking, is not tolerated.
+Employees must receive at least 150% of the local minimum wage for overtime hours.
+Working hours must not exceed 48 hours per week, with at least one day off in every seven-
+day period.
+All workers must be provided with written terms of employment in a language they understand.
+3. Health and Safety
+Suppliers must provide safe and healthy working environments, including access to clean
+drinking water, sanitation facilities, and emergency exits.
+There shall be zero fatalities and an annual incident rate not exceeding 2 recorded injuries per
+100 employees.
+Personal Protective Equipment (PPE) must be supplied to all staff engaged in hazardous work,
+with at least 98% compliance verified through quarterly audits.
+4. Environmental Protection
+Suppliers are required to have documented environmental policies and to actively minimize
+waste, emissions, and energy consumption.
+
+--- Page 2 ---
+Greenhouse gas emissions must be measured annually, with year-on-year reduction targets
+set at a minimum of 3%.
+At least 80% of waste generated in production must be recycled or reused.
+All chemicals and hazardous materials must be handled, stored, and disposed of in compliance
+with environmental regulations.
+5. Ethical Business Conduct
+Corruption, bribery, extortion, and embezzlement are strictly prohibited. All gifts,
+entertainment, or payments to Dataco Global personnel must not exceed a value of $50 per
+individual in any calendar year.
+Suppliers must disclose any conflicts of interest and business relationships with Dataco Global
+employees.
+Annual anti-corruption and anti-bribery trainings must be attended by at least 90% of supplier
+managerial staff.
+6. Data Privacy and Confidentiality
+Suppliers must protect any confidential or proprietary information received from Dataco
+Global, employing appropriate security practices in line with ISO 27001 requirements.
+Data breaches must be reported to Dataco Global within 48 hours of discovery.
+7. Monitoring, Audits, and Compliance
+Dataco Global reserves the right to conduct audits, including unannounced site inspections, at
+least once every 24 months.
+Suppliers must submit annual self-assessment reports and certify compliance with this Code
+of Conduct.
+Non-compliance may result in corrective action plans, with major violations potentially leading
+to contract termination and blacklisting for a minimum of 24 months.
+8. Continuous Improvement
+Suppliers are required to set annual objectives for improvement in labor, health and safety, and
+environmental practices, with progress reviews conducted during regular business meetings.
+Note: This policy has been generated specially for a hackathon. It has no relation with
+Syngenta or any other company.
+

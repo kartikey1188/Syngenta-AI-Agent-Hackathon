@@ -1,0 +1,55 @@
+--- Page 1 ---
+Dataco Global Performance Measurement and KPI Policy
+Purpose
+This policy establishes clear rules and quantifiable Key Performance Indicators (KPIs) to ensure
+efficient operation, high performance, and ongoing improvement at Dataco Global. It is designed to
+support transparency, accountability, and business growth throughout all departments.
+Scope
+This policy applies to all employees, managers, and contractors at Dataco Global, regardless of
+location or function.
+1. Performance Measurement Principles
+All employees and teams will be assessed using quantifiable KPIs aligned to Dataco Globalʼs
+business objectives.
+Performance reviews occur quarterly and annually.
+KPIs will be reviewed and may be updated each year to ensure continuing alignment with
+company goals and industry benchmarks.
+2. KPI Categories & Figures
+A. Financial Performance
+Revenue Growth: Achieve a minimum year-on-year revenue growth of 8%.
+Profit Margin: Maintain an operating profit margin of at least 15%.
+Cost Efficiency: Reduce operational costs by a minimum of 3% annually.
+B. Customer Satisfaction
+Net Promoter Score (NPS): Achieve and maintain an NPS of at least 65.
+Customer Retention Rate: Maintain annual retention above 90%.
+Issue Resolution Time: Resolve 95% of customer queries within 3 business days.
+C. Data Quality and Accuracy
+Data Error Rate: Keep documented data error rates below 0.5% per project.
+Data Delivery Timeliness: Meet 98% of project deadlines agreed upon with clients.
+D. Employee Performance & Engagement
+
+--- Page 2 ---
+Performance Goal Attainment: 85% of employees to meet or exceed set quarterly goals.
+Employee Turnover Rate: Limit voluntary turnover to under 8% per annum.
+Training Completion: 100% of employees to complete mandatory annual training modules.
+E. Compliance and Security
+Zero tolerance for non-compliance incidents with industry regulations and internal data
+security protocols.
+All security breaches to be reported within 24 hours and resolved within 72 hours.
+100% completion rate for quarterly compliance audits.
+3. Rules and Responsibilities
+Managers must communicate KPIs at the start of each review period and document progress
+in quarterly reviews.
+Employees are required to actively work towards achievement of personal and team KPIs.
+Non-achievement of KPIs for two consecutive review periods will initiate a performance
+improvement process.
+Exceptional performers (top 10%) will be recognized through formal quarterly awards.
+4. Data Collection and Reporting
+All performance data must be recorded using Dataco Globalʼs approved management system.
+KPI results and trends are shared company-wide each quarter.
+Any discrepancies in reported data must be addressed within 7 days by responsible managers.
+5. Policy Review
+This policy will be reviewed every 12 months and revised as necessary to reflect changes in
+business strategy or market conditions.
+Note: This policy has been generated specially for a hackathon and has no relation with
+Syngenta or any other company.
+

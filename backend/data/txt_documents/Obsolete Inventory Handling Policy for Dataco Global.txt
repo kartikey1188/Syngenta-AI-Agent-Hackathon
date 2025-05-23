@@ -1,0 +1,142 @@
+--- Page 1 ---
+Obsolete Inventory Handling Policy for
+Dataco Global
+Purpose and Scope
+This policy establishes guidelines and procedures for identifying, managing, and disposing of
+obsolete inventory at Dataco. It applies to all departments handling physical inventory and aims to
+minimize financial losses while ensuring efficient use of storage space and resources.
+Definitions
+Obsolete Inventory: Items that are no longer usable, sellable, or valuable to Dataco due to:
+Product expiration
+Technological obsolescence
+Damage beyond repair
+Discontinued product lines
+No movement or demand for over 12 months
+Identification Procedures
+1. Regular Inventory Review
+All inventory must be subject to a monthly count and status review[5].
+Department managers must conduct quarterly assessments to identify potentially
+obsolete items.
+Items without movement for 9+ months should be flagged for evaluation.
+2. Documentation Requirements
+All identified obsolete inventory must be documented by the Storeman and verified by the
+Asset Accountant[5].
+Documentation must include:
+Item description and SKU
+Original purchase date and cost
+Reason for obsolescence
+Current condition
+Recommended disposal method
+
+--- Page 2 ---
+Approval Process
+1. Obsolete Inventory Committee
+The Accounting Officer or delegated authority must convene an Asset Officer committee
+for obsolete inventory disposal[5].
+The committee should include representatives from:
+Finance
+Operations
+Supply Chain
+Asset Management
+2. Write-Off Authorization
+The delegated authority may approve inventory write-offs when items[5]:
+Have expired and are redundant
+Are of specialized nature and outdated due to newer products
+Cannot be used for original intended purposes
+Have been damaged and rendered useless
+3. Financial Considerations
+Finance department must assess tax implications of write-offs
+Accounting treatments must comply with GAAP/IFRS standards
+Write-off thresholds:
+Up to $5,000: Department Manager
+$5,001-$25,000: Director of Operations
+Above $25,000: CEO and CFO approval required
+Disposal Methods
+1. Return to Supplier
+When possible, obsolete items should be returned to suppliers for credit
+All return negotiations must be documented and approved
+2. Resale Options
+Items with residual value should be sold through:
+Discounted sales to employees
+Liquidation to specialized vendors
+Online marketplace listings
+
+--- Page 3 ---
+3. Donation
+Usable but obsolete items may be donated to:
+Educational institutions
+Nonprofit organizations
+Community programs
+All donations require proper documentation for tax purposes
+4. Recycling and Waste Management
+Items that cannot be resold or donated must be:
+Recycled through approved vendors when possible
+Disposed of in compliance with environmental regulations
+Properly documented for environmental compliance
+5. Destruction
+Items containing sensitive information or proprietary technology must be:
+Securely destroyed under supervision
+Documented with destruction certificates
+Record Keeping
+1. Inventory Update Requirements
+All disposed items must be promptly updated in inventory records/register/database[5].
+Updates must include:
+Disposal date
+Disposal method
+Authorization reference
+Financial impact
+2. Audit Trail
+Maintain complete audit trail of obsolete inventory from identification to disposal
+Records must be retained for a minimum of 7 years
+Prevention Strategies
+1. Demand Forecasting
+Implement robust demand forecasting to prevent excess inventory
+Regular review of purchasing patterns and adjustments
+
+--- Page 4 ---
+2. Inventory Turnover Targets
+Establish industry-appropriate inventory turnover targets
+Monitor and report on turnover metrics quarterly
+3. Just-in-Time Ordering
+Implement JIT ordering where appropriate to minimize excess inventory
+Develop strong supplier relationships to support flexible ordering
+4. Product Lifecycle Management
+Actively monitor product lifecycles
+Plan phase-out strategies for products approaching end-of-life
+Compliance and Reporting
+1. Quarterly Reports
+Generate quarterly reports on:
+Total obsolete inventory value
+Disposal methods utilized
+Financial impact
+Prevention effectiveness
+2. Annual Review
+Conduct annual policy review
+Update procedures based on lessons learned
+Roles and Responsibilities
+1. Department Managers
+Regular inventory monitoring
+Initial identification of obsolete items
+Implementation of prevention strategies
+2. Asset Accountant
+Verification of obsolete inventory documentation[5]
+Financial impact assessment
+Record keeping compliance
+3. Accounting Officer/Delegated Authority
+
+--- Page 5 ---
+Final approval of write-offs[5]
+Convening of Asset Officer committee
+Oversight of disposal process
+4. Storeman/Inventory Manager
+Preparation of obsolete inventory for disposition[5]
+Execution of approved disposal methods
+Updating inventory records
+Policy Violations
+Failure to comply with this policy may result in:
+Departmental budget impacts
+Disciplinary action
+Additional oversight requirements
+Note: This policy has been generated specially for hackathon. It has no relation with Syngenta or
+any other company.
+

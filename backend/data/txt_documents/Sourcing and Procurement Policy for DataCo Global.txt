@@ -1,0 +1,101 @@
+--- Page 1 ---
+Sourcing and Procurement Policy for DataCo
+Global
+Introduction
+This policy establishes the guidelines and procedures for all sourcing and procurement activities at
+DataCo Global. As one of the largest independent Data and Information Management service
+companies in the upstream Oil & Gas industry since 2001[2], we are committed to maintaining the
+highest standards of integrity, efficiency, and quality in our procurement practices.
+Scope
+This policy applies to all employees, contractors, and representatives involved in the procurement
+of goods and services on behalf of DataCo Global worldwide, supported through our global
+technical centers[2].
+Procurement Principles
+Ethical Standards
+All procurement activities must adhere to the following ethical standards:
+1. Zero tolerance for conflicts of interest
+2. Minimum 3 authorized signatories for purchases exceeding $50,000
+3. Mandatory disclosure of any personal relationships with vendors
+4. 100% compliance with anti-bribery and corruption laws
+Supplier Selection
+Competitive Bidding
+All purchases exceeding $10,000 require a minimum of 3 competitive bids
+Bids must be evaluated using a standardized scoring system with at least 5 criteria
+Technical and commercial evaluations must be conducted separately by different teams
+Supplier Qualification
+All new suppliers must complete pre-qualification with minimum score of 75%
+Annual re-evaluation of suppliers with performance scores below 80%
+Maximum contract duration of 3 years before mandatory re-bidding
+
+--- Page 2 ---
+Procurement Thresholds and Approvals
+Purchase Value Required
+Documentation Timeline
+(USD) Approvals
+Department 1-3 business
+$0 - $5,000 Purchase Order
+Manager days
+Department 3-5 business
+$5,001 - $25,000 Purchase Order + 2 quotes
+Director days
+$25,001 -
+VP & CFO Full tender package 2-3 weeks
+$100,000
+Full tender package +
+$100,001+ CEO & Board 4-6 weeks
+business case
+Sustainability Requirements
+Environmental Standards
+80% of suppliers must have documented environmental policies by 2026
+50% reduction in carbon footprint of procurement activities by 2030
+90% of packaging materials must be recyclable or biodegradable
+Social Responsibility
+100% compliance with labor laws and human rights standards
+Minimum of 25% of procurement budget allocated to local suppliers
+Zero tolerance for child labor or forced labor in supply chain
+Risk Management
+Supplier Risk Assessment
+Critical suppliers (top 20% by spend) undergo quarterly risk assessments
+Contingency plans required for all suppliers providing services/goods with recovery time
+objective $50,000
+Maximum payment terms of Net 60 days
+Performance bonds required for all projects >$250,000
+Data Security in Procurement
+As a data and information management company[2][5], DataCo Global requires:
+
+--- Page 3 ---
+100% of suppliers with access to company data must sign confidentiality agreements
+Annual security audits for all vendors with access to sensitive information
+48-hour mandatory breach notification requirement in all supplier contracts
+99.9% uptime guarantee for critical data services
+Compliance and Governance
+Audit Requirements
+Random audits of 15% of all purchase orders quarterly
+100% spend analysis conducted monthly
+Annual third-party compliance audit of procurement function
+Training Requirements
+All procurement staff must complete 40 hours of procurement training annually
+Ethics training mandatory for 100% of employees with procurement authority
+Refresher training on policy updates within 14 days of publication
+Exceptions and Escalations
+Exceptions to this policy require:
+Written justification submitted minimum 5 business days in advance
+Approval from two management levels above standard approval authority
+Documentation in exception log with quarterly review by compliance team
+Maximum exception rate of 5% of total purchase orders
+Policy Enforcement
+Violations of this policy will result in:
+First offense: Written warning and mandatory retraining
+Second offense: Removal of procurement authority for 90 days
+Third offense: Disciplinary action up to and including termination
+Review and Updates
+This policy shall be reviewed:
+Annually by the Procurement Management Team
+Bi-annually by the Executive Leadership Team
+
+--- Page 4 ---
+With updates communicated within 7 days of approval
+With version control showing minimum of last 3 revisions
+Note: This policy has been generated specially for hackathon. It has no relation with Syngenta or
+any other company.
+

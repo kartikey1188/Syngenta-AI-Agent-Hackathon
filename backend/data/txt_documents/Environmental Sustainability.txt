@@ -1,0 +1,59 @@
+--- Page 1 ---
+Dataco Global Environmental Sustainability Policy: Green Supply
+Chain
+Purpose
+Dataco Global is committed to integrating environmental sustainability into every aspect of its data
+and information management services, with a particular focus on the global upstream oil & gas
+sector. This policy outlines clear, quantifiable rules and standards for reducing our environmental
+impact across supply chains and operations, driving accountability, innovation, and measurable
+progress[2][4].
+1. Energy Efficiency and Carbon Emissions
+All Dataco Global offices and facilities must reduce energy consumption by at least 15% from
+2024 levels by the end of 2027.
+100% of new office hardware, including servers and computing infrastructure, must meet or
+exceed ENERGY STAR® certification.
+Reduce direct and indirect greenhouse gas emissions (Scope 1 and 2) by 20% by 2030 relative
+to the 2024 baseline, measured in tonnes CO₂e.
+2. Sustainable Procurement
+A minimum of 60% of all third-party suppliers by spend must be evaluated for environmental
+sustainability practices by the end of 2026.
+All suppliers must commit to eliminating single-use plastics from shipments to Dataco Global
+by 2027.
+Require all new suppliers to submit annual environmental performance data, with continued
+contracts contingent on meeting Dataco Globalʼs sustainability standards.
+3. Waste Management
+Achieve a 40% reduction in non-recyclable office waste generation across all global facilities
+by 2027.
+Implement mandatory e-waste recycling programs at every location, with at least 95% of
+decommissioned electronic equipment responsibly recycled or repurposed annually.
+Enhance digital document management to achieve a 30% annual reduction in paper use,
+compared with 2024 usage.
+4. Transportation and Logistics
+By 2026, 50% of all business travel and logistics must use lower-emission alternatives (e.g.,
+electric vehicles, public transit, or carbon-offset programs).
+
+--- Page 2 ---
+All logistics partners must provide verified documentation of carbon footprint annually, with
+preference given to partners demonstrating year-over-year emission reductions.
+5. Water Conservation
+All offices to install water-saving fixtures, targeting a minimum 20% reduction in water
+consumption (compared to 2024) by 2027.
+Require facility managers to submit quarterly water usage reports and corrective action plans if
+targets are missed.
+6. Employee Engagement and Training
+All employees must complete mandatory environmental sustainability training by the end of
+2025, refreshed annually.
+Establish a “Green Champions” program with at least one representative per department to
+oversee sustainability initiatives and report monthly progress.
+7. Performance Measurement and Reporting
+Dataco Global will publish an annual Environmental Impact Report, audited by an external
+party, disclosing progress toward each quantifiable goal stated in this policy.
+Key Performance Indicators (KPIs) will be reviewed quarterly; failure by any business unit to
+meet targets will trigger a corrective action review by senior management.
+8. Continuous Improvement
+This policy will be reviewed annually, with updated targets set every three years.
+All employees are encouraged to submit innovations or suggestions, with implemented ideas
+eligible for annual recognition and rewards.
+Note: This policy has been generated specially for the hackathon and has no relation with
+Syngenta or any other company.
+
