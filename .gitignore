@@ -182,3 +182,4 @@ cython_debug/
 
 frontend
 
+backend/service-account.json
