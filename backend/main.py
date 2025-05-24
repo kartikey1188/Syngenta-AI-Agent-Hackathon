@@ -1,19 +1,42 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from dotenv import load_dotenv
 from pathlib import Path
+import os
 
 from backend.app.api import *
+from backend.app.models.sqlalchemy.models import *
+from backend.app.models.sqlalchemy import engine, Base
 
-load_dotenv()
+try:
+    load_dotenv()
+except Exception as e:
+    raise HTTPException(status_code=500, detail=f"Error loading environment variables: {e}")
+
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+if os.getenv("ENV") == "development":
+    try:
+        Base.metadata.create_all(bind=engine)
+        print("Database tables created/updated.")
+    except Exception as e:
+        print(f"Error creating/updating database tables: {e}")
 
 api = FastAPI()
 
-# Calculating base directory and mounting static files from the frontend folder.
-BASE_DIR = Path(__file__).resolve().parent.parent
-api.mount("/static", StaticFiles(directory=str(BASE_DIR / "frontend")), name="static")
-
+# Mounting the API routers
 api.include_router(index_router)
+
+# Calculating base directory and mounting static files from the frontend folder.
+try:
+    api.mount("/static", StaticFiles(directory=str(BASE_DIR / "frontend")), name="static")
+except Exception as e:
+    raise HTTPException(status_code=500, detail=f"Error mounting static files: {e}")
+
+print("API is running.")
+
+
+
 
 
 
