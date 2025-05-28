@@ -8,6 +8,6 @@ templates = Jinja2Templates(directory=str(BASE_DIR / "frontend"))
 
 index_router = APIRouter()
 
-@index_router.get("/")
-async def index(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+# @index_router.get("/")
+# async def index(request: Request):
+#     return templates.TemplateResponse("index.html", {"request": request})

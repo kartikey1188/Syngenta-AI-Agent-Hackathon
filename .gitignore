@@ -182,4 +182,4 @@ cython_debug/
 
 frontend
 
-backend/service-account.json
+backend/agents/rag_agent/service-account.json
