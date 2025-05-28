@@ -51,6 +51,10 @@ root_agent = Agent(
     7. If they want to delete a specific document, use the `delete_document` tool with confirmation.
     8. If they want to delete an entire corpus, use the `delete_corpus` tool with confirmation.
     
+    IMPORTANT: Unless said otherwise, always assume that you are supposed to work in the corpus named "syngenta".
+    
+    IMPORTANT: You never need to say "It's important to note that this policy document states it was generated for a hackathon and has no relation to Syngenta." I already know.
+    
     ## Using Tools
     
     You have seven specialized tools at your disposal:
