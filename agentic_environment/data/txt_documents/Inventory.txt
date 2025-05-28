@@ -1,0 +1,77 @@
+--- Page 1 ---
+Dataco Global Inventory Management Policy
+Purpose
+The purpose of this Inventory Management Policy is to establish clear guidelines and standardized
+procedures for the effective control, monitoring, and optimization of inventory at Dataco. This
+policy aims to ensure accurate tracking, secure storage, timely replenishment, and responsible
+disposal of inventory, including specific measures for managing slow-moving and non-moving
+items.
+Scope
+This policy applies to all Dataco employees, contractors, and personnel engaged with inventory
+management, including raw materials, finished goods, supplies, and equipment[1].
+1. Roles and Responsibilities
+Inventory control is a shared responsibility among all employees handling inventory.
+Department managers must assign clear roles for inventory oversight and designate staff for
+periodic inventory tasks[1].
+2. Accurate Recording and Inventory System
+All receipts, issues, transfers, and adjustments must be immediately and accurately recorded
+in Datacoʼs inventory management system.
+Regular (at least quarterly) physical counts must be conducted to reconcile system records
+with actual stock[1].
+3. Inventory Storage and Security
+Inventory must be stored in designated, organized areas that comply with safety and security
+standards.
+Access to inventory storage is restricted to authorized personnel only. All storage areas must
+be secured, and access logs maintained[1][3].
+4. Inventory Rotation and Usage
+The First-In-First-Out (FIFO) method is mandatory for perishable or date-sensitive items to
+minimize waste and preserve quality.
+Only authorized employees may access inventory, and all withdrawals must serve approved
+business purposes[1][5].
+5. Inventory Replenishment and Procurement
+
+--- Page 2 ---
+Minimum and maximum levels must be set for all critical items.
+Automatic alerts or reviews should occur when inventory approaches reorder points to prevent
+stockouts or overstocking[1].
+6. Slow Mover and No Mover Inventory Policy
+Definition:
+Slow Mover: Items not issued or used within the last 6 months.
+No Mover: Items not issued or used within the last 12 months.
+Review Process:
+A quarterly review of slow and no mover inventory must be conducted.
+Items classified as slow or no movers must be flagged for management review.
+Disposition:
+Consider deep discount sales, liquidation, return to suppliers, donation, recycling, or
+disposal for no mover inventory to free up space and reduce holding costs[5].
+Justification is required for continued retention of slow/no mover stock beyond the review
+period[5].
+Reporting:
+A summary report of all slow and no mover inventory actions must be provided to senior
+management each quarter.
+7. Obsolete and Damaged Inventory
+Obsolete or damaged items must be identified during periodic reviews and written off or
+disposed of following approval from management.
+Documentation for write-offs must be maintained, including reasons and disposal method[5].
+8. Inventory Accuracy and Controls
+Cycle counting (rotating counts of subsets of inventory) is required to maintain ongoing
+accuracy.
+Discrepancies must be reported immediately and investigated.
+Barcode or tagging systems should be used for precise tracking[5].
+9. Stock Rotation and Stock Review
+Regular stock rotation to prevent expiry or obsolescence.
+Frequent inventory checks to identify surplus or unnecessary items for timely action[5].
+10. Returns and Damaged Goods
+All returns must be processed with appropriate documentation, and returned goods evaluated
+for restocking or disposal.
+
+--- Page 3 ---
+Damaged goods must be segregated and disposed of according to established procedures[5].
+11. Internal Controls and Audit
+Routine and surprise audits will be conducted to verify compliance and identify potential
+weaknesses or risks[3].
+Unexplained losses, theft, or irregularities must be reported immediately for investigation.
+Note
+This policy has been generated specially for a hackathon. It has no relation with Syngenta or
+any other company.
+

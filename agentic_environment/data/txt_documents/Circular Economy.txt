@@ -1,0 +1,53 @@
+--- Page 1 ---
+Dataco Global Circular Economy and Waste Reduction Policy
+Objective
+Dataco Global is committed to integrating circular economy principles and waste reduction
+practices throughout our operations, supporting environmental, social, and commercial
+sustainability. This policy sets forth quantifiable rules, responsibilities, and targets to ensure
+effective implementation and continuous improvement.
+Scope
+This policy applies to all Dataco Global offices, data and information management services, and
+supply chain activities worldwide[2][4].
+1. Circular Economy Integration
+All procurement contracts must prioritize vendors who supply reusable, recyclable, or
+remanufactured products, with at least 50% of all purchased office and IT equipment
+meeting these criteria by FY2026.
+Dataco Global will develop and implement data lifecycle management systems that maximize
+data reuse and minimize redundancy, targeting a 20% reduction in duplicate digital storage
+by FY2026.
+Service offerings to clients must include recommendations for digital resource optimization
+and data process streamlining to minimize environmental impact.
+2. Waste Reduction Targets
+Achieve a minimum 60% reduction in general office waste by weight compared to FY2024
+baseline levels by end of FY2026.
+Divert at least 75% of electronic waste from landfill annually by engaging certified e-waste
+recycling partners for all obsolete IT hardware.
+Reduce single-use plastics in all global offices by 90% by piece count by FY2026,
+substituting with reusable or compostable alternatives.
+3. Data and Document Management
+Implement mandatory digital documentation for all internal and client communications by
+FY2025, reducing paper use by at least 85% compared to FY2024.
+Shred and recycle 100% of sensitive paper documents in compliance with data privacy
+regulations and recycling protocols[5].
+
+--- Page 2 ---
+4. Employee Engagement and Accountability
+All employees must complete annual training in circular economy principles and waste
+management best practices, with 100% participation tracked each calendar year.
+Each department head is responsible for quarterly reporting on waste reduction and circularity
+KPIs, including progress towards targets specified in this policy.
+5. Supplier and Partner Requirements
+New contracts with vendors and partners must include specific clauses mandating compliance
+with Dataco Globalʼs circularity and waste reduction criteria, verified through annual audits.
+Preferential consideration in procurement is to be given to suppliers who demonstrate
+quantifiable circular practices, such as returning packaging material for reuse or offering take-
+back programs for end-of-life equipment.
+6. Monitoring, Auditing, and Continuous Improvement
+An annual sustainability audit will measure corporate waste generation, recycling rates, and
+progress towards stated goals, with results published in Dataco Globalʼs sustainability report.
+Policy targets and processes will be reviewed every 12 months, with updates enacted to
+address new technologies, regulatory requirements, or operational insights.
+Note:
+This policy has been generated specially for the hackathon. It has no relation with Syngenta or
+any other company.
+

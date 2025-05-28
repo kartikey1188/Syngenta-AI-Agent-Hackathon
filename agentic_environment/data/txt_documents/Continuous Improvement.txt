@@ -1,0 +1,62 @@
+--- Page 1 ---
+Dataco Global Continuous Improvement and Innovation Policy
+Purpose
+This policy establishes the framework for continuous improvement and innovation at Dataco
+Global. Its objectives are to ensure ongoing operational excellence, maintain our competitive edge
+in global data and information management, and foster a culture of measurable innovation and
+quality improvement[2].
+Scope
+This policy applies to all employees, contractors, and management of Dataco Global across all
+locations and business units.
+Policy Statements
+1. Continuous Improvement Commitment
+Each department must set at least three measurable improvement objectives per financial
+year, reviewed quarterly.
+Every process owner is required to submit a documented process review report bi-annually,
+outlining efficiency benchmarks and proposed enhancements.
+Dataco Global will strive for a minimum of 5% year-on-year reduction in process
+inefficiencies (measured by process audit metrics).
+At least 20% of identified improvement actions must be implemented within the first six
+months of identification.
+2. Innovation Requirements
+Every employee is encouraged to submit at least one innovation suggestion per year via the
+companyʼs digital suggestion platform.
+Management must allocate no less than 2% of annual revenue to research and innovation
+projects, including proof-of-concept trials and prototype developments.
+At least two new services or significant product enhancements must be piloted annually per
+division.
+3. Training and Capacity Building
+Employees are required to complete a minimum of 16 hours of professional development per
+year, including at least one module focused on innovation or process improvement.
+New joiners must complete continuous improvement training within their first 60 days of
+employment.
+
+--- Page 2 ---
+4. Performance Measurement and Recognition
+All continuous improvement and innovation initiatives must feature quantifiable KPIs, tracked
+centrally.
+Success stories and high-impact contributors will be recognized quarterly; top 10% of
+contributors will receive formal recognition and rewards.
+5. Accountability and Reporting
+Department heads are accountable for achieving at least 85% of their departmentʼs annual
+improvement targets.
+The Continuous Improvement Officer will submit a consolidated progress report to senior
+management every quarter.
+Failure to meet targets for two consecutive review periods requires a formal remediation plan.
+6. Compliance and Review
+This policy will be reviewed every 12 months. Amendments must be supported by majority
+approval (at least 66%) of the executive committee.
+All staff must acknowledge their understanding and acceptance of this policy in writing upon
+its release and after every significant update.
+Definitions
+Improvement objectives: Specific, measurable actions aimed at increasing quality, efficiency,
+or effectiveness.
+Innovation: A new or significantly improved product, service, or internal process that creates
+tangible value.
+Enforcement
+Non-compliance may result in remedial actions, including mandatory retraining, formal
+warnings, or other disciplinary measures.
+Note:
+This policy has been generated specially for hackathon purposes. It has no relation with
+Syngenta or any other company.
+
